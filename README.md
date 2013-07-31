@@ -23,7 +23,7 @@ Technical professional with over fifteen years of experience. Currently focused 
 
 ## Experience
 
-##### Associate Director of DevOps - [YP Holdings LLC](http://www.yellowpages.com)
+#### Associate Director of DevOps - [YP Holdings LLC](http://www.yellowpages.com)
 > May 2011 – Present
 
 Manage a small team of elite engineers, focused on performance, stability, automation and release processes for YP.com (a top 50 trafficked site with over 30 million unique visitors monthly). Provided architectural input for Ruby, Rails, Sinatra, Node.js and surrounding technologies. 
