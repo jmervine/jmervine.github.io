@@ -1,5 +1,5 @@
 ## Joshua P. Mervine
-> * email: joshua@mervine.net
+> * email: [joshua@mervine.net](mailto:joshua@mervine.net)
 > * blog: [mervine.net](http://mervine.net)
 > * twitter: [@mervinej](https://twitter.com/mervinej)
 > * linkedin: [linkedin.com/in/mervinej](http://www.linkedin.com/in/mervinej)
@@ -8,10 +8,10 @@
 ## Summary
 
 Technical professional with over fifteen years of experience. Currently focused on performance, stability and automation by day and open source tools and blogging about the aforementioned by night. Experience includes developer management, process management, project management, web application development, release engineering and systems engineering. Strengths include communication, collaboration, problem solving, as well as mentoring and managing technical staff.
-```
-> console.log(jmervine.toString());
-I'm that dev, ops, family kind of guy.
-```
+
+    > console.log(jmervine.toString());
+    I'm that dev, ops, family kind of guy.
+
 
 ## Specialties
 
