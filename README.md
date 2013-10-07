@@ -4,7 +4,6 @@
 > * twitter: [@mervinej](https://twitter.com/mervinej)
 > * linkedin: [linkedin.com/in/mervinej](http://www.linkedin.com/in/mervinej)
 
-
 ## Summary
 
 Technical leader with over fifteen years of experience. Currently focused on performance, stability and automation by day and open source tools and blogging about the aforementioned by night. Experience includes developer leadership, process management, project management, web application development, release engineering and systems engineering. Strengths include communication, collaboration, problem solving, as well as mentoring and managing technical staff.
@@ -84,3 +83,6 @@ Held progressively higher levels of responsibility as technical proficiencies in
 
 Researched and developed a teen focused sub-site of EarthLink’s main site; TeenZone. Duties included all HTML programming, copy-writing and interface layout. This site released and was a successful section of EarthLink's early web content.
 
+----
+
+[download pdf version](https://github.com/jmervine/me/raw/master/JoshuaMervine.pdf)
