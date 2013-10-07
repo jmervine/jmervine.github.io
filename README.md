@@ -28,7 +28,7 @@ Technical leader with over fifteen years of experience. Currently focused on per
 
 Manage a small team of elite engineers, focused on performance, stability, automation and release processes for YP.com (a top 50 trafficked site with over 30 million unique visitors monthly). Providing architectural input for Ruby, Rails, Sinatra, Node.js and surrounding technologies. 
 
-* ArchitectedArchitected, implmented and released application platform for incremental move from Ruby on Rails to Node.js using Big IP F5, Nginx, Node's cluster module, Express.js and node-http-proxy. Migration successfully released with zero downtime.
+* Architected, implmented and released application platform for incremental move from Ruby on Rails to Node.js using Big IP F5, Nginx, Node's cluster module, Express.js and node-http-proxy. Migration successfully released with zero downtime.
 * Updated release process, reducing the overall deployment time by %75 and allowing for quick and reliable rollbacks.
 * Established performance test automation and process, ensuring enchanted performance and higher confidence in releases.
 * Work closely with developers, system engineering and network operation to ensure 99.9% uptime. 
