@@ -26,7 +26,7 @@ Technical leader with over fifteen years of experience. Currently focused on per
 #### Associate Director of DevOps - [YP Holdings LLC](http://www.yellowpages.com)
 > May 2011 – Present
 
-Manage a small team of elite engineers, focused on performance, stability, automation and release processes for YP.com (a top 50 trafficked site with over 30 million unique visitors monthly). Provided architectural input for Ruby, Rails, Sinatra, Node.js and surrounding technologies. 
+Manage a small team of elite engineers, focused on performance, stability, automation and release processes for YP.com (a top 50 trafficked site with over 30 million unique visitors monthly). Providing architectural input for Ruby, Rails, Sinatra, Node.js and surrounding technologies. 
 
 * Architected and implmented application platform configurations for incremental move from Ruby on Rails to Node.js using Big IP F5, Nginx, Node's cluster module, Express.js and node-http-proxy. Migration successfully released with zero downtime.
 * Updated release process, reducing the overall deployment time by %75 and allowing for quick and reliable rollbacks.
