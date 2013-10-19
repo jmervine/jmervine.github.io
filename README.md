@@ -2,6 +2,7 @@
 > * email: [joshua@mervine.net](mailto:joshua@mervine.net)
 > * blog: [mervine.net](http://mervine.net)
 > * twitter: [@mervinej](https://twitter.com/mervinej)
+> * github: [jmervine](https://github.com/jmervine)
 > * linkedin: [linkedin.com/in/mervinej](http://www.linkedin.com/in/mervinej)
 
 ## Summary
