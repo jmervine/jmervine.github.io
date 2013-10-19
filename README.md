@@ -1,9 +1,13 @@
 ## Joshua P. Mervine
-> * email: [joshua@mervine.net](mailto:joshua@mervine.net)
-> * blog: [mervine.net](http://mervine.net)
-> * twitter: [@mervinej](https://twitter.com/mervinej)
-> * github: [jmervine](https://github.com/jmervine)
-> * linkedin: [linkedin.com/in/mervinej](http://www.linkedin.com/in/mervinej)
+
+    {
+        email    : "joshua@mervine.net",
+        blog     : "http://mervine.net",
+        twitter  : "https://twitter.com/mervinej",
+        github   : "https://github.com/jmervine",
+        linkedin : "http://www.linkedin.com/in/mervinej"
+    }
+
 
 ## Summary
 
