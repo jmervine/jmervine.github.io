@@ -19,7 +19,7 @@ Technical leader with over fifteen years of experience. Currently focused on per
 
 ## Specialties
 
-* Operating Systems: Linux (Gentoo, RedHat, Ubuntu, CentOS), Solaris, Mac OS X, Windows
+* Operating Systems: Linux (Gentoo, RedHat, Ubuntu, CentOS), Solaris, Mac OS X
 * Languages: Ruby, Python, JavaScript, Perl, PHP, etc.
 * Applications/Tools: Git, Nginx, Unicorn, Rack, Rake, RSpec, Apache/Tomcat, MySQL, MongoDB, Redis, DPKG, RPM, TPKG, JIRA, Bamboo, Hudson/Jenkins, Splunk, Gomez, NewRelic
 * Hardware: Sparc, Intel, AMD, F5 BigIP
