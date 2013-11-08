@@ -92,7 +92,7 @@ Researched and developed a teen focused sub-site of EarthLink’s main site; Tee
 
 ### Featured Project
 
-I have a ton of stuff on [Github](https://github.com/jmervine), as I use it as a bit of a scratch directory. For a highlight of my primary project, see: [mervine.net/projects](http://mervine.net/projects).
+I have a ton of stuff on [Github](https://github.com/jmervine), as I use it as a bit of a scratch directory. For a highlight of my primary projects see: [mervine.net/projects](http://mervine.net/projects).
 
 ----
 
