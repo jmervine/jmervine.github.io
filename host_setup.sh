@@ -1,30 +1,37 @@
 #!/usr/bin/env bash
 
-test "$1" && ALTERNATE="$1"
+ALTERNATE=false
+test "$1" && ALTERNATE=true
+
+# clean up old stuff if needed
+rm -rf ~/.dotfiles ~/.vim-config
 
 set -ue
 github="git@github.com:jmervine"
 test "$(echo "$( { ssh -T git@github.com; } 2>&1 )" | grep "successfully authenticated")" || github="https://github.com/jmervine"
 set -x
 
+cd ~
 git clone $github/dotfiles.git .dotfiles
 cd .dotfiles
-if test "$ALTERNATE"
+if $ALTERNATE
 then
-  git checkout $ALTERNATE
+  git checkout $1
 fi
 bash ./install.sh
 
+cd ~
 git clone $github/vim-config.git .vim-config
 cd .vim-config
 
-if test "$ALTERNATE"
+if $ALTERNATE
 then
-  git checkout $ALTERNATE
+  git checkout $1
 fi
 
 bash ./install.sh
 
+set +x
 echo "
 1.) Logout and log back in.
 2.) Launch vim and run: ':BundleInstall!'
