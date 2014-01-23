@@ -8,6 +8,10 @@
 # * ZSH 4.3.10
 # * TMUX 1.6
 #
+# TIP: If you can't chsh on your host to use zsh by default, do the following:
+#
+# $ echo "exec zsh" > ~/.profile
+#
 
 ALTERNATE=false
 test "$1" && ALTERNATE=true
