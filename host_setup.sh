@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+#
+# curl -sSL https://github.com/jmervine/me/edit/master/host_setup.sh | bash # -s centos
 
 ALTERNATE=false
 test "$1" && ALTERNATE=true
