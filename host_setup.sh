@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# curl -sSL https://github.com/jmervine/me/edit/master/host_setup.sh | bash # -s centos
+# curl -sSL https://raw.github.com/jmervine/me/master/host_setup.sh | bash # -s centos
 #
 # The resulting configuration has been verified on:
 #
