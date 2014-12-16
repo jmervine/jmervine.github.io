@@ -34,9 +34,9 @@ Over the last few years, I've worked quite actively on several open source proje
 
 [BootstrapCDN](http://www.bootstrapcdn.com/) is an open source web site, focused on easily and reliabily deliever [Bootstrap](http://getbootstrap.com/) client design framework to the public in a free and open source capacity. I work closely with the developers of [Bootstrap](http://getbootstrap.com/), [Font Awesome](http://fortawesome.github.io/Font-Awesome/) and [Bootswatch](http://bootswatch.com/), delivering updates and site enhancements as necessary.
 
-#### `httperf` Tools
+#### Httperf Tools
 
-[`httperf`](http://www.hpl.hp.com/research/linux/httperf/) is an open source C based performance testing tool. No I didn't write it. I do however maintain a fork and have written bindings and tools for it in several difference languages &ndash; see: [httperf.js](https://github.com/jmervine/httperfjs), [httperf.rb](https://www.npmjs.com/package/httperfrb), and [a few others on my Github](https://github.com/search?q=user%3Ajmervine+httperf).
+[Httperf](http://www.hpl.hp.com/research/linux/httperf/) is an open source C based performance testing tool. No I didn't write it. I do however maintain a fork and have written bindings and tools for it in several difference languages &ndash; see: [httperf.js](https://github.com/jmervine/httperfjs), [httperf.rb](https://www.npmjs.com/package/httperfrb), and [a few others on my Github](https://github.com/search?q=user%3Ajmervine+httperf).
 
 #### MaxCDN Tools
 
