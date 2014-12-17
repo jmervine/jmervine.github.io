@@ -13,11 +13,11 @@
 
 Technical leader with over fifteen years of experience. Currently focused on performance, stability and automation by day and open source tools and blogging about the aforementioned by night. Experience includes developer leadership, process management, project management, web application development, release engineering and systems engineering. Strengths include communication, collaboration, problem solving, as well as mentoring and managing technical staff.
 
-I just want to create useful things for useful people to help useful people become more useful.
+I want to create useful things for useful people, and in doing so help useful people become more useful.
 
 ## Specialties
 
-If you're looking for all the buzz words, I'm probably not the right candidate for you. I specialize in learning what I need to know to solve the problem at hand. 
+If you're looking for all the buzz words, I'm probably not the right candidate for you. I specialize in learning what I need to know to solve the problem at hand.
 
 That said, if you need the buzz words, here's a few.
 
@@ -59,12 +59,12 @@ Working as a bit of a "swiss army knife". This role was created for me so that I
 
 ###### May 2011 – August 2014
 
-Managed a small team of elite engineers, focused on performance, stability, automation and release processes for YP.com (a top 50 trafficked site with over 30 million unique visitors monthly). Providing architectural input for Ruby, Rails, Sinatra, Node.js and surrounding technologies. 
+Managed a small team of elite engineers, focused on performance, stability, automation and release processes for YP.com (a top 50 trafficked site with over 30 million unique visitors monthly). Providing architectural input for Ruby, Rails, Sinatra, Node.js and surrounding technologies.
 
 * Architected, implmented and released application platform for incremental move from Ruby on Rails to Node.js using Big IP F5, Nginx, Node's cluster module, Express.js and node-http-proxy. Migration successfully released with zero downtime.
 * Updated release process, reducing the overall deployment time by %75 and allowing for quick and reliable rollbacks.
 * Established performance test automation and process, ensuring enchanted performance and higher confidence in releases.
-* Work closely with developers, system engineering and network operation to ensure 99.9% uptime. 
+* Work closely with developers, system engineering and network operation to ensure 99.9% uptime.
 
 #### Team Manager of Operations - Walt Disney Parks & Resorts Online
 
@@ -76,7 +76,7 @@ Managing seven Web Developers and Java Engineers, both on- and off-shore (India)
 
 ###### December 2006 – December 2009
 
-Developing and implementing processes and procedures to streamline product life cycle from inception to release. Working closely with Development, Product Management, Quality Engineering, Change Management and Systems Engineering to ensure communication and expedite processes allowing for rapid development and release of new and existing products. Responsible for building and releasing over 50 web applications and 15 Windows client applications. 
+Developing and implementing processes and procedures to streamline product life cycle from inception to release. Working closely with Development, Product Management, Quality Engineering, Change Management and Systems Engineering to ensure communication and expedite processes allowing for rapid development and release of new and existing products. Responsible for building and releasing over 50 web applications and 15 Windows client applications.
 
 #### Sr. Development Tools Engineer - [EarthLink, Inc.](http://www.earthlink.net)
 
@@ -88,7 +88,7 @@ Conceptualized and built out a 130+ machine development data center. This was an
 
 ###### January 2002 – June 2005
 
-Maintained relationship with Product Management, Quality Engineering and System Engineering, ensuring success throughout the product life cycle. Position required management of two engineers responsible for maintaining updates to customer facing production code bases for myEarthLink (http://my.earthlink.net/), EarthLink Website (http://www.earthlink.net) and many other supporting web properties. 
+Maintained relationship with Product Management, Quality Engineering and System Engineering, ensuring success throughout the product life cycle. Position required management of two engineers responsible for maintaining updates to customer facing production code bases for myEarthLink (http://my.earthlink.net/), EarthLink Website (http://www.earthlink.net) and many other supporting web properties.
 
 #### Lead Engineer - [EarthLink, Inc.](http://www.earthlink.net)
 
