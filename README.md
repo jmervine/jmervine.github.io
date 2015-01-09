@@ -44,14 +44,14 @@ I have written and maintain several libraries and tools for integration with [Ma
 
 ### Experience - Day Job
 
-#### Lead Site Reliability Engineer - [YP Holdings LLC](http://www.yellowpages.com)
+#### Site Reliability Architect - [YP Holdings LLC](http://www.yellowpages.com)
 
 ###### August 2014 – present
 
 Working as a bit of a "swiss army knife". This role was created for me so that I could aid Operations in employing development best practices, while assisting in cleaning up existing automation and desiging and building additional automation for the future.
 
 * Prototyping Docker based deployment processes and automation, in conjunction with MesOS.
-* Implement continous deployment best practices around git based configurations.
+* Implement continuous deployment best practices around git based configurations.
 * Refactoring legacy automation, implementing development best practices, functional and unit tests.
 * Mentoring junior engineers on development process and automation.
 
