@@ -44,7 +44,7 @@ I have written and maintain several libraries and tools for integration with [Ma
 
 ### Experience - Day Job
 
-#### Site Reliability Engineer = [Heroku](https://www.heroku.com/about)
+#### Site Reliability Engineer - [Heroku](https://www.heroku.com/about)
 
 ###### May 2015 – present
 
