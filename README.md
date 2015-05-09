@@ -44,9 +44,13 @@ I have written and maintain several libraries and tools for integration with [Ma
 
 ### Experience - Day Job
 
+#### Site Reliability Engineer = [Heroku](https://www.heroku.com/about)
+
+###### May 2015 – present
+
 #### Site Reliability Architect - [YP Holdings LLC](http://www.yellowpages.com)
 
-###### August 2014 – present
+###### August 2014 – April 2015
 
 Working as a bit of a "swiss army knife". This role was created for me so that I could aid Operations in employing development best practices, while assisting in cleaning up existing automation and desiging and building additional automation for the future.
 
