@@ -22,8 +22,8 @@ If you're looking for all the buzz words, I'm probably not the right candidate f
 That said, if you need the buzz words, here's a few.
 
 * Operating Systems: Ubuntu/Debian, CentOS, Redhat, etc.
-* Languages: Node.js, Ruby, Python, JavaScript (Node.js), Golang, etc.
-* Applications/Tools: Docker, Git, Nginx, Bamboo, etc., etc., etc.
+* Languages: Node.js, Ruby, Golang, JavaScript, Python, etc.
+* Applications/Tools: Docker, Git, Nginx, etc., etc., etc.
 * Development Processes: Agile/Scrum
 
 ### Experience - Open Source (a.k.a Nights and Weekends)
@@ -44,7 +44,12 @@ I have written and maintain several libraries and tools for integration with [Ma
 
 ### Experience - Day Job
 
-#### Site Reliability Engineer - [Heroku](https://www.heroku.com/about)
+#### Lead SRE - [Heroku](https://www.heroku.com/about) 
+
+- Incident Commander - https://blog.heroku.com/incident-response-at-heroku
+- Building tooling to help developers who build tooling to help developers.
+- Splunk ingestion reliability
+- HIPPA / PCI operational remediations
 
 ###### May 2015 – present
 
