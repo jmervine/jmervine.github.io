@@ -22,7 +22,7 @@ If you're looking for all the buzz words, I'm probably not the right candidate f
 That said, if you need the buzz words, here's a few.
 
 * Operating Systems: Ubuntu/Debian, CentOS, Redhat, etc.
-* Languages: Node.js, Ruby, Golang, JavaScript, Python, etc.
+* Languages: Ruby, Golang, JavaScript (Node.js and client), Python, etc.
 * Applications/Tools: Docker, Git, Nginx, etc., etc., etc.
 * Development Processes: Agile/Scrum
 
@@ -44,7 +44,7 @@ I have written and maintain several libraries and tools for integration with [Ma
 
 ### Experience - Day Job
 
-#### Lead SRE - [Heroku](https://www.heroku.com/about) 
+#### Lead SRE - [Heroku](https://www.heroku.com/about)
 
 - Incident Commander - https://blog.heroku.com/incident-response-at-heroku
 - Building tooling to help developers who build tooling to help developers.
