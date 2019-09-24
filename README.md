@@ -11,9 +11,9 @@
 
 ## Summary
 
-Technical leader with almost twenty years of experience. Currently focused on
-reliability, automation and tooling. Experience includes development leadership
-and architecture, process management and project management, application
+Technical leader with over twenty years of experience. Currently focused on
+reliability, compliance, automation and tooling. Experience includes development
+leadership and architecture, process management and project management, application
 design and development development, release process and automation and systems
 engineering. Strengths include communication, collaboration, problem solving,
 as well as mentoring and managing technical staff.
@@ -35,16 +35,14 @@ That said, if you need the buzz words, here's a few.
 * Development Processes: Agile/Scrum, Kanban, Waterfall; whatever fits for the
   team at hand and delivers.
 
-### Experience - Open Source (a.k.a Nights and Weekends)
+## Experience - Open Source (a.k.a Nights and Weekends)
 
 Over the last few years, I've worked quite actively on several open source
 projects, some by contract and some just for fun. Aside from the highlighted
 project below, have a ton of stuff on [Github](https://github.com/jmervine),
-as I use it as a bit of a scratch directory. For highlights and additional
-information on some of the other projects (gem's, npm's, etc.) I've created,
-see: [mervine.net/projects](http://mervine.net/projects).
+as I use it as a bit of a scratch directory.
 
-#### BootstrapCDN
+### BootstrapCDN
 
 [BootstrapCDN](http://www.bootstrapcdn.com/) is an open source web site, focused
 on easily and reliably deliver [Bootstrap](http://getbootstrap.com/) client design
@@ -53,14 +51,34 @@ the developers of [Bootstrap](http://getbootstrap.com/), [Font Awesome](http://f
 and [Bootswatch](http://bootswatch.com/), delivering updates and site enhancements
 as necessary.
 
-### Experience - Day Job
+## Experience - Day Job
 
-#### Managing Engineer, SRE Tools - [Heroku](https://www.heroku.com/about) / [Salesforce](https://www.salesforce.com/)
+### Sr. Manager, Production Services - [Heroku](https://www.heroku.com/about) / [Salesforce](https://www.salesforce.com/)
 
-* Hands on management and mentoring a team comprised of engineers from diverse
-  backgrounds in the duties reflected in the "Lead SRE" entry below.
+###### May 2017 - present
 
-#### Lead SRE - [Heroku](https://www.heroku.com/about)
+* Manage two separate teams, focused on Share Service Operations and Compliance
+  and Integration development, respectively.
+* Long range planning and project breakdown for underlying domain.
+* Leadership Escalation Incident Command - https://blog.heroku.com/incident-response-at-heroku
+
+**Domains**
+* Shared Service Operations
+    * Owning and operating Splunk on AWS. Supporting 80TB (and growing) of data
+      ingestion per day with zero down time, zero data loss requirements.
+    * Other various operational requirements, including; DNS, SSL and AWS Account
+      management, alerting, monitoring, etc.
+    * Designing supporting infrastructure at scale for the various services and
+      components owned and operated by SRE.
+* Compliance and Integration Development
+    * HIPPA / PCI / SOX / etc. operational compliance and remediation.
+    * Developing and operating applications to support AWS account management,
+      internal and third party service access control, automated on/off
+      boarding and more.
+
+### Lead SRE - [Heroku](https://www.heroku.com/about)
+
+###### May 2015 - May 2017
 
 * Owning and operating Splunk on AWS. Supporting 60TB (and growing) of data
   ingestion per day with zero down time, zero data loss requirements.
@@ -72,9 +90,7 @@ as necessary.
   components owned and operated by SRE.
 * Incident Command - https://blog.heroku.com/incident-response-at-heroku
 
-###### May 2015 – present
-
-#### Site Reliability Architect - [YP Holdings LLC](http://www.yellowpages.com)
+### Site Reliability Architect - [YP Holdings LLC](http://www.yellowpages.com)
 
 ###### August 2014 – April 2015
 
@@ -90,7 +106,7 @@ automation for the future.
   and unit tests.
 * Mentoring junior engineers on development process and automation.
 
-#### Associate Director of DevOps - [YP Holdings LLC](http://www.yellowpages.com)
+### Associate Director of DevOps - [YP Holdings LLC](http://www.yellowpages.com)
 
 ###### May 2011 – August 2014
 
@@ -110,7 +126,7 @@ Rails, Sinatra, Node.js and surrounding technologies.
 * Work closely with developers, system engineering and network operation to
   ensure 99.9% uptime.
 
-#### Team Manager of Operations - Walt Disney Parks & Resorts Online
+### Team Manager of Operations - Walt Disney Parks & Resorts Online
 
 ###### January 2010 – May 2011
 
@@ -122,7 +138,7 @@ with Production, Quality Assurance, Systems Engineers and Business partners to
 ensure solid communication and processes, allowing for high quality code delivery
 with limited resourcing and short time lines.
 
-#### Sr. Release Engineering Manager - [EarthLink, Inc.](http://www.earthlink.net)
+### Sr. Release Engineering Manager - [EarthLink, Inc.](http://www.earthlink.net)
 
 ###### December 2006 – December 2009
 
@@ -133,7 +149,7 @@ ensure communication and expedite processes allowing for rapid development and
 release of new and existing products. Responsible for building and releasing
 over 50 web applications and 15 Windows client applications.
 
-#### Sr. Development Tools Engineer - [EarthLink, Inc.](http://www.earthlink.net)
+### Sr. Development Tools Engineer - [EarthLink, Inc.](http://www.earthlink.net)
 
 ###### July 2005 – November 2006
 
@@ -142,7 +158,7 @@ an 18 month project from start to finish, which resulted in a fully functioning
 parallel development environment allowing development to triple its overall
 productivity.
 
-#### Manager of Portal Maintenance - [EarthLink, Inc.](http://www.earthlink.net)
+### Manager of Portal Maintenance - [EarthLink, Inc.](http://www.earthlink.net)
 
 ###### January 2002 – June 2005
 
@@ -153,7 +169,7 @@ customer facing production code bases for myEarthLink (http://my.earthlink.net/)
 EarthLink Website (http://www.earthlink.net) and many other supporting web
 properties.
 
-#### Lead Engineer - [EarthLink, Inc.](http://www.earthlink.net)
+### Lead Engineer - [EarthLink, Inc.](http://www.earthlink.net)
 
 ###### March 1998 – January 2002
 
@@ -161,7 +177,7 @@ Held progressively higher levels of responsibility as technical proficiency
 increased. Led and participated in major web projects associated with our
 customer portal and supporting products.
 
-#### Intern - [EarthLink, Inc.](http://www.earthlink.net)
+### Intern - [EarthLink, Inc.](http://www.earthlink.net)
 
 ###### June 1996 – September 1996
 
