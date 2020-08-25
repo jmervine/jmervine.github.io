@@ -11,7 +11,7 @@
 Technical leader with over twenty years of experience. Currently focused on
 reliability, compliance, automation and tooling. Experience includes development
 leadership and architecture, process management and project management, application
-design and development development, release process and automation and systems
+design and development, release process and automation and systems
 engineering. Strengths include communication, collaboration, problem solving,
 as well as mentoring and managing technical staff.
 
