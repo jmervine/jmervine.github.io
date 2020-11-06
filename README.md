@@ -1,7 +1,6 @@
 ## Joshua P. Mervine
 
 * Email: joshua@mervine.net
-* Twitter: https://twitter.com/mervinej
 * Github: https://github.com/jmervine
 * LinkedIn: https://www.linkedin.com/in/mervinej
 
@@ -13,7 +12,7 @@ reliability, compliance, automation and tooling. Experience includes development
 leadership and architecture, process management and project management, application
 design and development, release process and automation and systems
 engineering. Strengths include communication, collaboration, problem solving,
-as well as mentoring and managing technical staff.
+as well as mentoring and leading technical staff.
 
 I want to create useful things for useful people, and in doing so help useful
 people become more useful.
@@ -52,8 +51,9 @@ as necessary.
 
 ### Sr. Manager, Production Services - [Heroku](https://www.heroku.com/about) / [Salesforce](https://www.salesforce.com/)
 
-###### May 2017 - present
+###### May 2017 - August 2020
 
+* Hands on technical leadership, architecture and mentoring.
 * Manage two separate teams, focused on Share Service Operations and Compliance
   and Integration development, respectively.
 * Long range planning and project breakdown for underlying domain.
