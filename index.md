@@ -1,7 +1,7 @@
 
-* Email: joshua@mervine.net
-* Github: https://github.com/jmervine
-* LinkedIn: https://www.linkedin.com/in/mervinej
+* Email: [mailto:joshua@mervine.net]
+* Github: [https://github.com/jmervine]
+* LinkedIn: [https://www.linkedin.com/in/mervinej]
 
 
 ## Summary
