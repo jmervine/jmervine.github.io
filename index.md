@@ -1,9 +1,3 @@
-
-* Email: [mailto:joshua@mervine.net]
-* Github: [https://github.com/jmervine]
-* LinkedIn: [https://www.linkedin.com/in/mervinej]
-
-
 ## Summary
 
 Technical leader with over twenty years of experience. Currently focused on

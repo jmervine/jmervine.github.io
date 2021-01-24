@@ -1,2 +1,12 @@
 theme: jekyll-theme-slate
 title: Joshua P. Mervine
+description: >
+  <ul>
+    <li><a style="color:white" target="_blank" href="mailto:joshua@mervine.net">joshua@mervine.net</a></li>
+    <li><a style="color:white" target="_blank" href="https://github.com/jmervine/">github.com/jmervine</a></li>
+    <li><a style="color:white" target="_blank" href="https://linkedin.com/in/jmervine">linkedin.com/in/jmervine</a></li>
+  </ul>
+
+show_downloads: false
+github:
+  is_project_page: false
