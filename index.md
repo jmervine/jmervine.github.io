@@ -1,4 +1,3 @@
-## Joshua P. Mervine
 
 * Email: joshua@mervine.net
 * Github: https://github.com/jmervine
