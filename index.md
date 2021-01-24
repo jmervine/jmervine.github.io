@@ -185,4 +185,4 @@ web content.
 
 ----
 
-[Download PDF](https://github.com/jmervine/me/raw/master/JoshuaMervine.pdf)
+[Download PDF](https://github.com/jmervine/jmervine.github.io/raw/master/JoshuaMervine.pdf)
