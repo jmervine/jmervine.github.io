@@ -6,7 +6,7 @@ leadership and architecture, process management and project management, applicat
 design and development, release process and automation and systems
 engineering. Strengths include communication, collaboration, problem solving,
 as well as mentoring and leading technical staff.
- 
+
 I want to create useful things for useful people, and in doing so help useful
 people become more useful.
 
@@ -24,7 +24,7 @@ That said, if you need the buzz words, here's a few.
 * Development Processes: Agile/Scrum, Kanban, Waterfall; whatever fits for the
   team at hand and delivers.
 
-## Experience - Open Source (a.k.a Nights and Weekends)
+## Experience - Open Source Projects (a.k.a Nights and Weekends)
 
 Over the last few years, I've worked quite actively on several open source
 projects, some by contract and some just for fun. Aside from the highlighted
@@ -39,6 +39,13 @@ framework to the public in a free and open source capacity. I work closely with
 the developers of [Bootstrap](http://getbootstrap.com/), [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 and [Bootswatch](http://bootswatch.com/), delivering updates and site enhancements
 as necessary.
+
+### json2struct.mervine.net
+
+[json2struct.mervine.net](https://json2struct.mervine.net/) is a small extension
+to [github.com/ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) that I
+created to bring a easy to use web interface to the project. Unlike many other side
+projects, it has gained some traction and sees a fair amount of use.
 
 ## Experience - Day Job
 
