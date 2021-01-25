@@ -1,9 +1,9 @@
 theme: jekyll-theme-slate
 title: " "
 description: >
-  <nobr><a style="color:white" target="_blank" href="mailto:joshua@mervine.net">joshua@mervine.net</a> ::
-    <a style="color:white" target="_blank" href="https://github.com/jmervine/">github.com/jmervine</a> ::
-    <a style="color:white" target="_blank" href="https://linkedin.com/in/jmervine">linkedin.com/in/jmervine</a></nobr>
+  <center><nobr><a style="color:white" target="_blank" href="mailto:joshua@mervine.net">email</a> ::
+    <a style="color:white" target="_blank" href="https://github.com/jmervine/">github</a> ::
+    <a style="color:white" target="_blank" href="https://linkedin.com/in/jmervine">linkedin</a></nobr></center>
 
 show_downloads: false
 github:
