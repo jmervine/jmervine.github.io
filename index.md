@@ -55,11 +55,11 @@ projects, it has gained some traction and sees a fair amount of use.
 
 * Heavy focus on team bootstrapping, including hiring, long range planning and
   defining long term team vision.
-* Company wide project migrating FedRAMP Moderate government logging 
+* Company wide project migrating FedRAMP Moderate government logging
   infrastructure for all systems, services and applications.
-* Developing Product Requirements and Engineering Plans for overhaul of the 
-  existing logging strategies to maximize coverage while minimizing costs 
-* Providing hands on technical leadership and mentoring to geographically 
+* Developing Product Requirements and Engineering Plans for overhaul of the
+  existing logging strategies to maximize coverage while minimizing costs.
+* Providing hands on technical leadership and mentoring to geographically
   dispersed teams.
 
 ### Sr. Manager, Production Services - [Heroku](https://www.heroku.com/about) / [Salesforce](https://www.salesforce.com/)
