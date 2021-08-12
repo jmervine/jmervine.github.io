@@ -51,7 +51,7 @@ projects, it has gained some traction and sees a fair amount of use.
 
 ### Lead SRE, Observability - [MuleSoft](https://www.mulesoft.com/) / [Salesforce](https://www.salesforce.com/)
 
-###### May 2021 - Current
+###### February 2021 - Current
 
 * Heavy focus on team bootstrapping, including hiring, long range planning and
   defining long term team vision.
