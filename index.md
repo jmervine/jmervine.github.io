@@ -141,8 +141,7 @@ Rails, Sinatra, Node.js and surrounding technologies.
 ###### January 2010 – May 2011
 
 Managing seven Web Developers and Java Engineers, both on- and off-shore (India),
-responsible for sustaining [disneyland.com](https://disneyland.disney.go.com/),
-[disneyparks.com](http://disneyparks.disney.go.com/) and dozens of associated
+responsible for maintaining disneyland.com, disneyparks.com and dozens of associated
 international sites in a high pressure 24/7 operations group. Working closely
 with Production, Quality Assurance, Systems Engineers and Business partners to
 ensure solid communication and processes, allowing for high quality code delivery
@@ -175,8 +174,8 @@ productivity.
 Maintained relationship with Product Management, Quality Engineering and System
 Engineering, ensuring success throughout the product life cycle. Position
 required management of two engineers responsible for maintaining updates to
-customer facing production code bases for myEarthLink (http://my.earthlink.net/),
-EarthLink Website (http://www.earthlink.net) and many other supporting web
+customer facing production code bases for my.earthlink.net,
+EarthLink Website and many other supporting web
 properties.
 
 ### Lead Engineer - [EarthLink, Inc.](http://www.earthlink.net)
