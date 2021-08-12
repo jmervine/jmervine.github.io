@@ -26,7 +26,7 @@ That said, if you need the buzz words, here's a few.
 
 ## Experience - Open Source Projects (a.k.a Nights and Weekends)
 
-Over the last few years, I've worked quite actively on several open source
+Over the last decade or so, I've worked quite actively on several open source
 projects, some by contract and some just for fun. Aside from the highlighted
 project below, have a ton of stuff on [Github](https://github.com/jmervine),
 as I use it as a bit of a scratch directory.
@@ -49,9 +49,22 @@ projects, it has gained some traction and sees a fair amount of use.
 
 ## Experience - Day Job
 
+### Lead SRE, Observability - [MuleSoft](https://www.mulesoft.com/) / [Salesforce](https://www.salesforce.com/)
+
+###### May 2021 - Current
+
+* Heavy focus on team bootstrapping, including hiring, long range planning and
+  defining long term team vision.
+* Company wide project migrating FedRAMP Moderate government logging 
+  infrastructure for all systems, services and applications.
+* Developing Product Requirements and Engineering Plans for overhaul of the 
+  existing logging strategies to maximize coverage while minimizing costs 
+* Providing hands on technical leadership and mentoring to geographically 
+  dispersed teams.
+
 ### Sr. Manager, Production Services - [Heroku](https://www.heroku.com/about) / [Salesforce](https://www.salesforce.com/)
 
-###### May 2017 - August 2020
+###### May 2017 - May 2021
 
 * Hands on technical leadership, architecture and mentoring.
 * Manage two separate teams, focused on Share Service Operations and Compliance
@@ -186,3 +199,4 @@ web content.
 ----
 
 [Download PDF](https://github.com/jmervine/jmervine.github.io/raw/master/JoshuaMervine.pdf)
+
